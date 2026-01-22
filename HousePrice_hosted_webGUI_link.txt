@@ -2,5 +2,5 @@ Name: Ayinuola Adedolami David
 Matric Number: 23CG034045
 Machine Learning Algorithm Used: Random Forest Regressor
 Model persistence method used: Joblib
-Live URL of the hosted application: 
+Live URL of the hosted application: https://housprice-project-ayinuola-adedolami.onrender.com/
 GitHub repository link: https://github.com/Daveyblitz/Housprice_project_Ayinuola_Adedolami_23CG034045-
