@@ -1,6 +1,6 @@
-Name: [Your Name]
-Matric Number: [Your Matric Number]
+Name: Ayinuola Adedolami David
+Matric Number: 23CG034045
 Machine Learning Algorithm Used: Random Forest Regressor
 Model persistence method used: Joblib
-Live URL of the hosted application: [Link from Render/Streamlit/etc.]
-GitHub repository link: [Your GitHub Repo Link]
+Live URL of the hosted application: 
+GitHub repository link: https://github.com/Daveyblitz/Housprice_project_Ayinuola_Adedolami_23CG034045-
